@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-10-25-used-new-evs
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-25
+date: 2025-10-23
 venue: 'International Journal of Sustainable Transportation'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1080/15568318.2025.2572827'
