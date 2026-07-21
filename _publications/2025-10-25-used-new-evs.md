@@ -9,6 +9,6 @@ venue: 'International Journal of Sustainable Transportation'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1080/15568318.2025.2572827'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Moras, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Krause Moras, B. C., Joslin, C., &amp; Gkritza, N. (2025). &quot;Used or new electric vehicles? Public preferences and market segments.&quot; <i>International Journal of Sustainable Transportation</i>, 1–14.'
 ---
 
