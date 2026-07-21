@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <iframe
-  src="/files/Christina_Joslin_CV.pdf"
+  src="{{ site.baseurl }}/files/christinajoslincv-august2026.pdf"
   width="100%"
   height="1100px"
   style="border: none;">
