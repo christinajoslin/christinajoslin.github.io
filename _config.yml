@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home"
+title                    : "Christina Joslin"
 title_separator          : "-"
 name                     : &name "Christina Joslin"
 description              : &description "Christina Joslin's Site"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Christina Joslin"
-  pronouns         : # example: "she/her"  
-  bio              : "Incoming Ph.D. Student Operations Research and Financial Engineering"
+  pronouns         : #   
+  bio              : "Incoming Ph.D. Student<br>Operations Research and Financial Engineering"
   location         : "Princeton, New Jersey"
   employer         : "Princeton University"
   uri              : # URL
