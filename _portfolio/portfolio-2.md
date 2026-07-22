@@ -1,9 +1,10 @@
 ---
-title: "ML Job Compass"
-excerpt: '<a href="https://github.com/christinajoslin/ml_job_compass" target="_blank">💻 Source Code</a>'
+title: "CLiFF (Clustering & Language model integration for FAQ Formation)"
+excerpt: '<a href="https://github.com/christinajoslin/PromptBeaver" target="_blank">💻 Source Code</a><br>Developed PromptBeaver, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.<br>The Streamlit application includes two workflows (Build a Prompt and Analyze My Prompt) and was developed for Purdue University’s CS 475: Human-Computer Interaction course in Spring 2026.'
 collection: portfolio
 ---
+Developed *PromptBeaver*, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.
 
-Created ML Job Compass, a Streamlit dashboard that helps students and professionals explore career paths in machine learning. Using natural language processing, retrieval-augmented generation, and data visualization, the application analyzes more than 1,000 U.S. job postings to identify domain-specific skill demands and generate personalized skill checklists and phased learning roadmaps.
+The Streamlit application includes two workflows (Build a Prompt and Analyze My Prompt) and was developed for Purdue University’s CS 475: Human-Computer Interaction course in Spring 2026.
 
-The system uses a local Chroma vector store, an Ollama-hosted Granite 3.3 model, and Docker Compose for local deployment. A manuscript based on this work has been submitted for publication.
+(💻 Source Code)[https://github.com/christinajoslin/PromptBeaver]
