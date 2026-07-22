@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "PromptBeaver"
+excerpt: '<a href="https://github.com/christinajoslin/PromptBeaver" target="_blank">💻 Source Code</a>'
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Developed PromptBeaver, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.
+
+The Streamlit application includes two workflows (Build a Prompt and Analyze My Prompt) and was developed for Purdue University’s CS 475: Human-Computer Interaction course in Spring 2026.
