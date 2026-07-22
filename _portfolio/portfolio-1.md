@@ -1,6 +1,6 @@
 ---
 title: "PromptBeaver"
-excerpt: '<a href="https://github.com/christinajoslin/PromptBeaver" target="_blank">Source Code</a><br>Created a Streamlit prompt-engineering tool that helps students build, evaluate, and refine prompts for large language models through guided prompt analysis rather than direct answer generation.'
+excerpt: 'Created a Streamlit prompt-engineering tool that helps students build, evaluate, and refine prompts for large language models through guided prompt analysis rather than direct answer generation.<br><a href="https://github.com/christinajoslin/PromptBeaver" target="_blank">Source Code</a>'
 collection: portfolio
 ---
 Developed *PromptBeaver*, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.

@@ -1,10 +1,10 @@
 ---
 title: "CLiFF (Clustering & Language model integration for FAQ Formation)"
-excerpt: '<a href="https://github.com/christinajoslin/PromptBeaver" target="_blank">Source Code</a><br>Developed PromptBeaver, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.<br>The Streamlit application includes two workflows (Build a Prompt and Analyze My Prompt) and was developed for Purdue University’s CS 475: Human-Computer Interaction course in Spring 2026.'
+excerpt: 'Constructed CLiFF, a natural language processing pipeline that uses a fine-tuned large language model and semantic clustering to transform recurring technical support issues into frequently asked questions.<br><a href="https://github.com/christinajoslin/faq-generation" target="_blank">Source Code</a>'
 collection: portfolio
 ---
-Developed *PromptBeaver*, a prompt-engineering tool that helps undergraduate students in computer science, data science, and AI build, analyze, and refine prompts for large language models. Rather than generating answers directly, the tool guides users toward prompts that produce more useful conceptual explanations and support iterative learning.
+Developed *CLiFF*, an automated natural language processing pipeline that generates frequently asked questions from technical support tickets. Using a fine-tuned large language model, sentence embeddings, and semantic clustering, the system identifies recurring support issues and transforms groups of related tickets into reusable question-and-answer content.
 
-The Streamlit application includes two workflows (Build a Prompt and Analyze My Prompt) and was developed for Purdue University’s CS 475: Human-Computer Interaction course in Spring 2026.
+The pipeline includes ticket preprocessing, issue-and-resolution summarization, semantic subclustering, cluster-quality ranking, and FAQ generation. The system was developed for technical support data in high-performance computing environments and supported a peer-reviewed publication.
 
-[Source Code](https://github.com/christinajoslin/PromptBeaver)
+[Source Code](https://github.com/christinajoslin/faq-generation)

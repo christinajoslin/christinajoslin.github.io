@@ -1,6 +1,6 @@
 ---
 title: "Dog and Cat Breed Classifier"
-excerpt: '<a href="https://github.com/christinajoslin/cnn-dog-cat-breed-classifier" target="_blank">Source Code</a><br>Trained a MobileNetV2 transfer-learning model to classify 104 dog and cat breeds from 29,000 images, achieving an 84% F1 score.'
+excerpt: 'Trained a MobileNetV2 transfer-learning model to classify 104 dog and cat breeds from 29,000 images, achieving an 84% F1 score.<br><a href="https://github.com/christinajoslin/cnn-dog-cat-breed-classifier" target="_blank">Source Code</a>'
 collection: portfolio
 ---
 

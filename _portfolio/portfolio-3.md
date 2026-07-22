@@ -1,6 +1,6 @@
 ---
 title: "ML Job Compass"
-excerpt: '<a href="https://github.com/christinajoslin/ml_job_compass" target="_blank">Source Code</a><br>Built a Streamlit application that analyzes 1,000+ machine learning job postings using natural language processing and retrieval-augmented generation to identify in-demand skills and generate personalized learning roadmaps. Manuscript submitted for publication.'
+excerpt: 'Built a Streamlit application that analyzes 1,000+ machine learning job postings using natural language processing and retrieval-augmented generation to identify in-demand skills and generate personalized learning roadmaps. Manuscript submitted for publication.<br><a href="https://github.com/christinajoslin/ml_job_compass" target="_blank">Source Code</a>'
 collection: portfolio
 ---
 
