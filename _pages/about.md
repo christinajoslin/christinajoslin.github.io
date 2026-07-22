@@ -21,6 +21,6 @@ My research interests lie at the intersection of **high-dimensional statistics, 
 
 **April 2026.** Received the Outstanding Senior in Statistics Award from Purdue University's Department of Statistics.
 
-**November 2025.** Our paper *Generating Frequently Asked Questions from Technical Support Tickets Using Large Language Models* was published in the HUST Workshop Proceedings at SC25: The International Conference for High Performance Computing, Networking, Storage and Analysis.
+**November 2025.** Our paper *Generating Frequently Asked Questions from Technical Support Tickets Using Large Language Models* was published in the HUST Workshop Proceedings at SC'25: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
 **October 2025.** Our paper *Used or New Electric Vehicles? Public Preferences and Market Segments* was published in the International Journal of Sustainable Transportation.
