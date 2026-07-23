@@ -1,0 +1,17 @@
+---
+title: "Introduction to PyTorch and Tensorflow"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2025-fall-teaching-1
+venue: "Purdue University, Rosen Center for Advanced Computing"
+date: 2025-10-10
+location: "West Lafayette, IN, USA"
+---
+
+This introductory workshop presented the core concepts and workflows of PyTorch and TensorFlow, two widely used deep learning frameworks. Topics included tensors, computation graphs, automatic differentiation, gradient-based optimization, and the architectural and programming differences between the two frameworks.
+
+The session also provided hands-on demonstrations of building and training simple neural networks in both PyTorch and TensorFlow, from defining model layers to implementing complete training loops.
+
+[View workshop slides](https://1drv.ms/p/c/3fd70fe294678b56/IQBr5fxd_xmoTqr8uwsXLDdsAVTDsfS5YTlm5eQECWKS7zk?e=uMIBJg)
+
+[View Jupyter notebook](https://colab.research.google.com/drive/1DtW13dboXE6MF-qwUM6aH96xd8FTbRin?usp=sharing)
