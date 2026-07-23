@@ -23,4 +23,4 @@ My research interests lie at the intersection of **high-dimensional statistics, 
 
 **November 2025.** Our paper *Generating Frequently Asked Questions from Technical Support Tickets Using Large Language Models* was published in the HUST Workshop Proceedings at SC'25: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
-**October 2025.** Our paper *Used or New Electric Vehicles? Public Preferences and Market Segments* was published in the International Journal of Sustainable Transportation.
+**October 2025.** Our paper *Used or new electric vehicles? Public preferences and market segments* was published in the International Journal of Sustainable Transportation.
